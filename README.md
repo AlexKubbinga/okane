@@ -21,6 +21,9 @@ Okané is a spending tracker that leverages Open Banking to allow individuals to
 | Chakra        | Koa           |               |
 | Three.JS      |               |               |
 
+### Back-end
+The back-end repository can be found using [this link.](https://github.com/AlexKubbinga/okane-backend)
+
 ### Contributors  
 - Sam Flower
 - Ben Stimpson
